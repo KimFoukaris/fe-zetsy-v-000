@@ -26,6 +26,11 @@ body {
 	padding: 1px;
 }
 
+#border-image {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
 h1 {
   font-family: 'Libre Baskerville', serif;
 	font-size: 5em;
