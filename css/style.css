@@ -21,7 +21,7 @@ body {
 
 /* Write all remaining styles here */
 
-#press {
+#press a {
 	border: 5px #ccc solid;
 	padding: 1px;
 }
