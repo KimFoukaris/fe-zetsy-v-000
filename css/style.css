@@ -24,8 +24,8 @@ body {
 /* Write all remaining styles here */
 
 #press a img {
+	padding: 1px;
 	border: 5px #ccc solid;
-	
 }
 
 #main-image img {
