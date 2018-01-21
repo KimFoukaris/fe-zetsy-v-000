@@ -2,8 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 
-<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
-
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 /*////////// Global Styles //////////*/
 
 body {
