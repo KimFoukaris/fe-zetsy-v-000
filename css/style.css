@@ -25,7 +25,7 @@ body {
 
 #press a img {
 	border: 5px #ccc solid;
-	border-bottom: 1px solid #ccc;
+	
 }
 
 #main-image img {
@@ -38,6 +38,7 @@ h1 {
   font-family: 'Baskerville', serif;
 	font-size: 5em;
 	color: rgb(152,173,166);
+	border-bottom: 1px solid #ccc;
 	}
 
 h2 {
