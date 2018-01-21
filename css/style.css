@@ -21,6 +21,11 @@ body {
 
 /* Write all remaining styles here */
 
+#press {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
 h1 {
   font-family: 'Libre Baskerville', serif;
 	font-size: 5em;
